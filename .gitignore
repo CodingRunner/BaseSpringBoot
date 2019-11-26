@@ -35,4 +35,4 @@ build/
 mvnw*
 
 ### project ###
-log/
+logs/
